@@ -4,11 +4,6 @@
 porém acessar apenas as rotas que se encontram na pasta USER**
 
 
-**O arquivo **MERCAFACIL.JSON** é o arquivo de importação dos campos no insominia/postman, recomando que o import**
-
-
-
-
 para iniciar projeto:
 
 preencha o arquivo .env.example com os dados nescessários para execução do projeto.
@@ -46,11 +41,3 @@ yarn build || npm run build - para buildar o código em javascript.
 && 
 
 yarn start || npm run start - para executar.
-
-
-//----------------------------------------------------------//
-
-
-Agradeço a oportunidade de poder participar deste processo seletivo, aguardo retorno.
-
-Desenvolvido por: Leoni Mascarenhas
