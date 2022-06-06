@@ -1,1 +1,1 @@
-# Códgo desenvolvido para estudo de microservices
+# Código desenvolvido para estudo de microservices
